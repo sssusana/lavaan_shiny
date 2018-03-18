@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521396285695.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "989D7A3F",
+    "lastKnownWriteTime" : 4307592192,
+    "last_content_update" : 1521396285695,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "96652C7E",
+        "caption" : "inov_clean",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=inov_clean&cache_key=96652C7E",
+        "displayedObservations" : "96",
+        "environment" : "",
+        "object" : "inov_clean",
+        "preview" : "0",
+        "totalObservations" : "96",
+        "variables" : "35"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
